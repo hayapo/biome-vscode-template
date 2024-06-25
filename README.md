@@ -1,0 +1,1 @@
+# biome-vscode-template
